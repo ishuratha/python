@@ -3,7 +3,7 @@ int main()
 {
 int n,t,sum=0,remainder;
 printf("\n Enter the integer");
-scanf('5d",&n);
+scanf("%d",&n);
 t=n;
 while(t!=0)
 {
