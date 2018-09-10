@@ -1,3 +1,3 @@
-string=raw_input("enter the string\n")
+string=raw_input("Enter the string\n")
 k=int(input())
-print9string[:k])
+print(string[:k])
