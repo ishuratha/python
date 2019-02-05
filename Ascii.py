@@ -1,2 +1,2 @@
 ch='p'
-print("The ASCII value of '"+ch+"'is",ord(c))
+print("The ASCII value of '"+ch+"'is",ord(ch))
